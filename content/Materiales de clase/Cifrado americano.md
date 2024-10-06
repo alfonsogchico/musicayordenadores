@@ -1,6 +1,3 @@
----
-share: true
----
 El “cifrado americano” es una manera de nombrar acordes (un sistema de cifrado armónico) utilizado principalmente en música popular, jazz ,pop y rock, para representarlos de manera simplificada. 
 
 Utiliza **letras del alfabeto para indicar las tónicas de los acordes**, de la siguiente manera:
