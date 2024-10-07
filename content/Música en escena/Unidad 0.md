@@ -1,4 +1,7 @@
-
+---
+share: true
+category: Música en escena
+---
 > [!summary] Contenidos
 > - Conceptos básicos
 > - Kit inicial de herramientas para la creación musical multimedia
