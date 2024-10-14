@@ -53,3 +53,31 @@ V: V2 clef=bass
 [V: V1]C16| D16| D16| D16|
 [V: V2]B,,16| B,,16| D,16| D,16|
 ```
+
+  ```music-abc
+X:1
+T: 
+M:C
+L:1/2
+K:C
+"C" C E | "Cm" C _E | "C7" C E |]
+```
+
+
+  ```music-abc
+X:1
+T: 
+M:C
+L:1/4
+K:C
+"C" C E G z | "Cm" C _E G z | "C7" C E G _B|]
+```
+
+  ```music-abc
+X:1
+T: 
+M:C
+L:1/2
+K:C
+"C" E C | "Cm" _E C | "C7" E C|]
+```
