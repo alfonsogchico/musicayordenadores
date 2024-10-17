@@ -1,6 +1,6 @@
 ---
 share: true
-category: Música en escena
+category: Música multimedia
 title: "Sesión 1: herramientas"
 ---
 > [!summary] Contenidos
